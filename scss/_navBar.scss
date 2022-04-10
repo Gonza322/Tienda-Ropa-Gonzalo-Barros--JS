@@ -1,0 +1,48 @@
+
+.Amatic{
+	font-family: $navBar__font;
+
+}
+
+.href{
+		text-decoration: none;
+		color: $color__font__navBar;
+		font-size: 1.5em;
+		text-decoration:none;
+		text-transform: uppercase;
+		}
+.bg-gonza{
+	background-color: $background__color__navBar;
+}
+.height{
+	height: 15vh;
+}
+@media only screen and	(min-width: 1200px)
+{
+	.href{
+		text-decoration: none;
+		color:  $color__font__navBar;
+		font-size: 1.5em;
+		text-decoration:none;
+		text-transform: uppercase;
+		background-image: linear-gradient(currentColor, currentColor);
+	 	background-position: 0% 100%;
+	    background-repeat: no-repeat;
+	    background-size: 0% 2px;
+	    transition: all 1s;			
+				}
+				.href:hover, .href:focus {
+	    			background-size: 100% 2px;
+	    			color:  $color__font__navBar;
+
+
+				}
+
+
+	
+}
+.carrito{
+	height: 7vh;
+}
+
+
