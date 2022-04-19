@@ -1,0 +1,57 @@
+
+[
+    {
+      "id":1,
+      "nombreDePrenda":"TOP PRINCESS",
+      "precio" :600,
+      "color":"Blanco y negro",
+      "talle":"XS-S-M-L",
+      "foto" :"../multimedia/ropa 4.jpeg"
+
+    },
+    {
+        "id":2,
+        "nombreDePrenda":"HUSE ISLAND",
+        "precio" :999,
+        "color":"Blanco y negro",
+        "talle":"XS-S-M-L",
+        "foto" :"../multimedia/ropa 5.jpg"
+  
+      },
+      {
+        "id":3,
+        "nombreDePrenda":"CONJUNTO ARCOIRIS",
+        "precio" :2500,
+        "color":"Arcoiris",
+        "talle":"XS-S-M-L",
+        "foto" :"../multimedia/ropa 6.jpg"
+  
+      },
+      {
+        "id":4,
+        "nombreDePrenda":"BUZO VAN HELEN",
+        "precio" :2130,
+        "color":"Blanco y negro",
+        "talle":"XS-S-M-L",
+        "foto" :"../multimedia/ropa 7.jpg"
+  
+      },
+      {
+        "id":5,
+        "nombreDePrenda":"CAMISA CROP CALSSIC",
+        "precio" :1100,
+        "color":"Negro",
+        "talle":"XS-S-M-L",
+        "foto" :"../multimedia/ropa 8.jpg"
+  
+      },
+      {
+        "id":6,
+        "nombreDePrenda":"JEAN MOM KILA",
+        "precio" :2999,
+        "color":"Auzl",
+        "talle":"XS-S-M-L",
+        "foto" :"../multimedia/ropa 9.jpg"
+  
+      }
+ ]
